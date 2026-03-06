@@ -1,0 +1,203 @@
+General Greetings & Chatbot Identity
+
+What is your name?
+
+Who are you?
+
+How are you?
+
+What can you do?
+
+How old are you?
+
+Where are you from?
+
+Can you help me?
+
+What is your purpose?
+
+Are you human?
+
+Are you smart?
+
+Can you talk?
+
+Can you think?
+
+Who made you?
+
+Who developed this chatbot?
+
+Daily Interaction
+
+What time is it?
+
+What day is today?
+
+Good morning
+
+Good afternoon
+
+Good evening
+
+Good night
+
+Hello
+
+Hi
+
+Thank you
+
+Thanks
+
+Sorry
+
+Do you sleep?
+
+Do you eat?
+
+What is your favorite color?
+
+Tell me a joke
+
+Life, Health & Personal Development
+
+What is life?
+
+What is happiness?
+
+How to stay healthy?
+
+What is stress?
+
+How to reduce stress?
+
+What is success?
+
+What is failure?
+
+What is friendship?
+
+What is love?
+
+What is time management?
+
+How to be confident?
+
+What is discipline?
+
+How to focus on studies?
+
+What is motivation?
+
+How to stay motivated?
+
+What is patience?
+
+What is honesty?
+
+What is kindness?
+
+AI & Chatbot Technology
+
+Can you learn?
+
+What is AI?
+
+What is Machine Learning?
+
+What is Deep Learning?
+
+What is NLP?
+
+What is a chatbot?
+
+What is an FAQ chatbot?
+
+How does this chatbot work?
+
+What is cosine similarity?
+
+What is TF-IDF?
+
+Programming & Web Development
+
+What is Python?
+
+Why is Python popular?
+
+What is Flask?
+
+Why use Flask?
+
+What is a web server?
+
+What is localhost?
+
+What is port 5000?
+
+What is HTML?
+
+What is CSS?
+
+What is JavaScript?
+
+What is backend development?
+
+What is frontend development?
+
+What is full stack development?
+
+What is API?
+
+What is REST API?
+
+What is JSON?
+
+Computer Science & Data
+
+What is data science?
+
+What is big data?
+
+What is cloud computing?
+
+What is cybersecurity?
+
+What is encryption?
+
+What is a database?
+
+What is SQL?
+
+What is Git?
+
+What is GitHub?
+
+What is DevOps?
+
+What is Docker?
+
+What is virtualization?
+
+What is operating system?
+
+What is Windows?
+
+What is Linux?
+
+What is open source?
+
+What is software testing?
+
+What is debugging?
+
+What is compiler?
+
+What is interpreter?
+
+What is algorithm?
+
+What is data structure?
+
+What is array?
